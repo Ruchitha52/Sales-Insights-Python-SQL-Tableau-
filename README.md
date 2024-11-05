@@ -16,9 +16,9 @@ Handling outliers and replacing null values with mean, median, or mode, dependin
 <h2>Load:</h2>
 The transformed dataset was loaded into a MySQL database. Using SQL, I ran queries to identify key trends, including:
 
-Top revenue-generating products
-Highest-selling products by region
-Sales trends by month and year
+Top revenue-generating products,
+Highest-selling products by region,
+Sales trends by month and year,
 Additionally, the data was visualized using Tableau, creating interactive dashboards that enable stakeholders to explore the data.
 
 <h2>Key Findings:</h2>
